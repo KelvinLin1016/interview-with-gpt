@@ -1,10 +1,8 @@
-# Chat with GPT
+# Interview with AI
 
-Chat with GPT is an open-source, unofficial ChatGPT app with extra features and more ways to customize your experience. It connects ChatGPT with ElevenLabs to give ChatGPT a realistic human voice.
+Interview with GPT is unofficial ChatGPT app with extra features and more ways to customize your experience. It connects ChatGPT with ElevenLabs to give ChatGPT a realistic human voice.
 
-Try out the hosted version at: https://www.chatwithgpt.ai
-
-Or [self-host with Docker](#running-on-your-own-computer).
+[self-host with Docker](#running-on-your-own-computer).
 
 Powered by the new ChatGPT API from OpenAI, this app has been developed using TypeScript + React. We welcome pull requests from the community!
 
