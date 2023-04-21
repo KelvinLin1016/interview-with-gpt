@@ -38,8 +38,8 @@
     "description": "Message indicating that text-to-speech audio is buffering"
   },
   "74eGxP": {
-    "defaultMessage": "New Chat",
-    "description": "Label for the button used to start a new chat session"
+    "defaultMessage": "New Interview",
+    "description": "Label for the button used to start a new interview session"
   },
   "8CYNFt": {
     "defaultMessage": "No chats yet.",
@@ -133,8 +133,8 @@
     "description": "HTML title tag"
   },
   "cAtzqn": {
-    "defaultMessage": "System Prompt",
-    "description": "Heading for the setting that lets users customize the System Prompt, on the settings screen"
+    "defaultMessage": "Interview System Prompt",
+    "description": "Heading for the setting that lets users customize the Interview System Prompt, on the settings screen"
   },
   "cmcjSh": {
     "defaultMessage": "Preview voice",
@@ -204,7 +204,7 @@
     "description": "Label for copy-to-clipboard button"
   },
   "w5Dmuu": {
-    "defaultMessage": "Customize system prompt",
+    "defaultMessage": "Customize interview system prompt",
     "description": "Label for the button that opens a modal for customizing the 'system prompt', a message used to customize and influence how the AI responds."
   },
   "y1F8Hs": {

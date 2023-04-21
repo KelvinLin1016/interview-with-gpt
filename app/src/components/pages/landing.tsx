@@ -28,8 +28,8 @@ export default function LandingPage(props: any) {
     return <Page id={'landing'} showSubHeader={true}>
         <Container>
             <p>
-                <FormattedMessage defaultMessage={'Hello, how can I help you today?'}
-                    description="A friendly message that appears at the start of new chat sessions" />
+                <FormattedMessage defaultMessage={'Hello, welcome to the interview?'}
+                    description="A friendly message that appears at the start of new interview sessions" />
             </p>
             {!openAIApiKey && !isProxySupported() && (
                 <Button size="xs" variant="light" compact onClick={onConnectButtonClick}>
