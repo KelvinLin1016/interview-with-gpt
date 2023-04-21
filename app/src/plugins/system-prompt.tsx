@@ -203,11 +203,136 @@ Mandarin Training Center
 University of California, Riverside, Riverside, California June 2007
 Bachelor of Arts in Economics/Administrative Studies`
 
+export const defaultResume2 = `YINAN (JENNIFER) GU
++1 (650) 519-6406 / guyinan7@gmail.com
+
+OVERVIEW
+●Experienced and influential business leader with 20  years of B2B sales and marketing experience in start-up, private, and multinational companies.
+●Highly recognized thought leader in the high-tech industry, and an active speaker in executive communities, investment circles, business schools, and women’s leadership events. 
+●Strategic solid sales and marketing management, focusing on team building & delivering results.
+●CEO/Executive coach helping entrepreneurs grow via self-awareness, overcoming anxiety, and empowering others
+●CCE Certified happiness trainer helping people break through the gridlock in careers via positive psychology
+
+
+EXPERIENCE
+
+Getoxygen- Head of Growth                                                               Oct 2022- Present
+Worked closely with the founder to develop and implement a solid go-to-market plan for a new Web3 marketing growth tool, which involved designing a sales process and customer support system.
+
+●Built a dedicated market and sales team (pod) to generate leads, close deals, and onboard customers.
+●Developed and executed integrated marketing campaigns, including advertising, PR, events, and digital marketing.
+●We conducted market research and customer insights to inform product development and messaging.
+●Monitored and reported on marketing KPIs, including leads, conversions, and ROI.
+●Successfully closed seed customers deal with monthly subscriptions to make the Saas model work.
+●Established a supporting ecosystem for the tool's growth, including partnerships with complementary products and services, user communities, and thought leaders in the Web3 marketing space.
+
+Business Consultant                        		                               Oct 2020 - Present 
+Leverage my expertise in positive psychology coaching, business roadmaps, sales management, leadership, and communications to empower entrepreneurs and teams and help them achieve their goals. 
+●Empower entrepreneurs and teams through positive psychology coaching combined with business roadmaps, sales management, leadership, and communications.
+●Develop and deliver seven self-created sales management and leadership courses to executive teams online and offline.
+●Coach CEOs in growing their businesses by enhancing self-awareness, overcoming anxiety, and empowering others during the pandemic, resulting in quadrupled performance.
+●Guide senior management teams in effectively combining personal and company goals to improve productivity as an executive coach.
+●Share expertise with the Global 500 Tax managers Association online to ease executives' anxiety about the pandemic.
+
+
+Yunchang Cloud  -  Founder/CEO                                                  Jan 2017 – Sept 2020
+Created a new local Internet & cloud managed services company to fit the Chinese market best. The core focus is sales and marketing.
+●Reorganized the team to meet sales targets and improve cash flow 
+●Raised three rounds of fundraising, plus a successful M&A with ChinaNetCloud
+●Promoted by AWS as a global advanced consultant partner, and China’s only certified cloud governance provider
+●Built strategic managed service partnerships with all the major Chinese cloud providers
+●Partnership with Fuji Corporation & ChinaSoft International to broaden their cloud management platforms and services
+
+ChinaNetCloud  -  VP Sales                                                             Jan 2015 – Dec 2016
+Managed company operations & local fundraising. 
+●Successfully restructured sales & marketing team for better China localization
+●Led the team to finish a strategic angel round, and then a $9 million A-Round of funding
+●Successfully built ChinaNetCloud’s unique branding via content marketing and mass media exposure
+●Led the team to be the first AWS global certified MSP (managed service partner) in China
+●Built strategic Diamond Level partnership with Alibaba Cloud, specializing in migration and 7x24 operations
+
+ChinaNetCloud  -  Sales & BD Director                                         July 2011 – Dec 2014
+Managed dozens of salespeople for the world's first and most capable Internet Managed Services Company, with a vision to run all the world's Internet Servers. We managed all types of Internet servers for performance, reliability, security, 24x7 monitoring & troubleshooting, and much more - in China, Asia, & beyond. 
+●Led team to drive 50% annual sales increases, becoming the individual sales leader in successive years
+●Recruited and trained dozens of salespeople in China and internationally
+●Built a solid ecosystem program to resell ChinaNetCloud’s service, including with China’s leading data centers (ChinaNetCenter, 21ViaNet), CDN( ChinaCache), and all the major cloud providers
+●Supported the company’s strategic development by leveraging governmental technical and financial support
+
+NEW Ltd.  -  Senior BD Manager                                                     Apr 2009 – Jun 2011
+Lead China sales team for the world's largest extended warranty company, managing international key accounts in the China market by maintaining good partnerships and supporting retailers’ sales. Targeted famous retailers entering China, along with famous local sales leaders, including real stores and online businesses. 
+●Company’s individual sales leader within 7 months, after increasing sales by 50%
+●Successfully closed numerous new deals to meet BD targets
+●Led sales team to manage and grow key accounts that generated 60%+ of the company’s revenue
+
+Shanghai Ever Bright Enterprise Development Company  -  Sales manager   Sept 2004 – Apr 2009 
+Supervised a four-person sales team for a $30 million international specialty chemical company operating in the USA, Japan, Russia, the UK, Malaysia, and Thailand. Responsible for sales, tracking customs, business progress, and market data, plus identified, developed, and executed international sales strategy. Trained & inspired sales team, including instilling corporate culture & sales service ideals, along with weekly forecasts, pipeline activity, and sales reports. 
+●Personally sold US$50 million in products, to customers including Wahaha, Mengniu, FMC, China National Petroleum Cooperation, CNOOC, Halliburton, Australia Mud Company, and the Russian National Oil Company 
+●Recruited & trained 10 salespeople
+●Created sales procedures and forms including quotations, reporting, etc.
+
+Bureau of Shanghai World Expo Coordination  -  Public Relations Intern      Feb 2004 - July 2004
+Assisted with translation, customer relations, logistics, and office administration for the government agency responsible for organizing, operating, and managing the Shanghai World Expo 2010. 
+●Created a seminar for the Shanghai World Expo 2010 
+●Planned & designed an International Seminar for the Shanghai World Expo 2010
+●Assistant for a related forum on SHFE Derivatives Market Forum-Metals Market
+
+Shanghai Yi Ben Co., Ltd, Shanghai, China  -  Marketing Intern               May 2002 -Dec 2002
+Assisted in marketing research and office administration for a high-tech $10 million environmental company, focusing on daily waste treatment. 
+●Coordinated official evaluation for the company’s new waste processing machine 
+●Finished the market analysis for the company’s product
+
+Community Volunteer
+2022 - Community volunteer 
+2000-2003 - Counselor for teenagers in the community
+1998-2002 - Volunteer, Shanghai Elder Dementia Hospital 
+2008 - Volunteer, Shanghai Red Cross 
+
+
+
+
+EDUCATION
+
+Stanford University Continued Study   Leadership and Design thinking    2022
+Graduated With Grade A
+
+Shanghai University of Business and Economics	Masters Degree in Economics   		      2002-2005
+Recognition:
+2003 - KONRAD-ADENAUER-FOUNDATION Scholarship/Excellent Student Leader of SIFT 
+2005 - Excellent Post-Graduate Student of Shanghai award
+Received “Excellent Student” Scholarship each semester
+
+Shanghai University Of Engineering Science    	Bachelor Degree in Management          1998-2002
+Recognition:
+Received “Highest Grade Student” Scholarship each semester
+
+
+OTHER
+Work Permit： US Greencard holder
+
+Professional Certifications:
+ICF Certified Evolutional Coach
+Angel Plus Accelerator Certified Startup Coach
+CCE-certified happiness Trainer 
+
+Languages:  
+Chinese Mandarin – Native
+English – Fluent
+
+Other Skills:	   
+Competent Communicator certified by Toastmasters International 
+Excellent negotiating, presentation, and people skills.
+
+Linkedin Profile:
+https://www.linkedin.com/in/yinan-gu/
+     
+          
+`
+
 export const defaultSystemPrompt = `
 
 You act as an experienced Interviewer, a helpful assistant, developed by Lorenzo AI, a company helping businesses find great job candidates.
 
-You will conduct the interview for the role in job description ${defaultJB2}.
+You will conduct the interview for the role in job description [${defaultJB2}] and will ask interview questions based on resume [${defaultResume2}].
 
 Before you start the interview, you should indicate to the candidate the interview will be recorded and do not cheat on the interview in any way, ask the candidate if they understand and agree. The interview will only proceed if they understand and agree. Otherwise the interview will end.
 
