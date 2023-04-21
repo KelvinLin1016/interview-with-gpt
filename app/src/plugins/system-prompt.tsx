@@ -3,7 +3,72 @@ import Plugin from "../core/plugins";
 import { PluginDescription } from "../core/plugins/plugin-description";
 import { OpenAIMessage, Parameters } from "../core/chat/types";
 
-const defaultJB = `VP of Sales
+export const defaultJB = `General Description of the Position's Function and Purpose
+
+Increase sales revenue within the connector business unit.
+Develop new customers, new projects, and new products
+Manage product lineups and sales strategies for assigned market segments
+Specific Duties and Responsibilities
+
+Oversee assigned market segments and increase sales
+Prospecting for new customers, new projects, and new products for assigned market segments together with sales, distributors, and engineering team
+Study market trends and create product/sales strategies for assigned market segment
+Study market pricing and manage standard product pricing within assigned market segments
+Manage sales promotion materials, marketing materials and web information for assigned market segment
+Provide product training for sales and distributors
+Support new product development projects and oversee the status of development for assigned market segments
+Coordinate and support Trade Shows and Association meetings
+Manage inventory level of standard products
+Knowledge/Skills Required
+
+Electronics products and market knowledge. Connector industry experience is preferred
+Product Marketing and sales promotion experience
+Critical Thinking, judgement, and market analysis
+Proficient in the use of MS Word, Excel, PowerPoint, etc.
+Qualifications
+
+College Degree - Advanced technical degree
+Experience - Broad engineering and marketing or sales experience in the electronics (connector) industry, characterized by a sustained record of sales achievement
+Other - Background in new product development
+Additional Desirable Qualifications
+
+Excellent interpersonal skills
+Able to understand technical requirements and performance of connector products
+Ability to travel as needed
+Job Type: Full-time
+
+Pay: $90,000.00 - $150,000.00 per year
+
+Benefits:
+
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Referral program
+Tuition reimbursement
+Vision insurance
+Ability to commute/relocate:
+
+San Jose, CA: Reliably commute or planning to relocate before starting work (Required)
+Education:
+
+Bachelor's (Preferred)
+Experience:
+
+Business development: 4 years (Preferred)
+Willingness to travel:
+
+25% (Required)
+Work Location: One location`
+
+export const defaultJB2 = `
+Job Description:
+VP of Sales
 About Wonders 
 At Wonders, we build products that delight restaurant managers and offload the 
 operational burden of running a restaurant. By enabling frictionless connection between 
@@ -70,7 +135,9 @@ The compensation range for this role will be $xxx,xxx - $xxx,xxx in on-target ea
 you grow the team. Salary is dependent on experience and location. Competitive Bonus 
 and Equity brings the total compensation package.`
 
-const defaultResume = `Steven Mu
+export const defaultResume = `
+Candidate Resume:
+Steven Mu
 2203 Maywind Way, Hacienda Heights, CA 91745 ∙ (626) 566-1307 ∙ stevenwmu@gmail.com
 Success-driven sales, business development, and partnerships leader with more than 7 years 
 Fintech Payments and 4 years of financial consulting experience delivering revenue and market
@@ -138,30 +205,30 @@ Bachelor of Arts in Economics/Administrative Studies`
 
 export const defaultSystemPrompt = `
 
-You are Interviewer, a helpful assistant, developed by Lorenzo AI, a company helping businesses find great job candidates.
+You act as an experienced Interviewer, a helpful assistant, developed by Lorenzo AI, a company helping businesses find great job candidates.
 
-Your first job is to interview a candidate besed on the job description and candidate resume. 
+You will conduct the interview for the role in job description ${defaultJB2}.
 
-The job description is sales manager role and candidate resume is ${defaultResume} .
+Before you start the interview, you should indicate to the candidate the interview will be recorded and do not cheat on the interview in any way, ask the candidate if they understand and agree. The interview will only proceed if they understand and agree. Otherwise the interview will end.
 
-Before the introduction and interview questions, indicate to the candidate the interview will be recorded and do not cheat on the interview in any way, ask the candidate if they understand and agree. The interview will only proceed if they understand and agree. Otherwise the interview will end.
+In the begining of the interview, you should understand the job description, company info and candidate resume, and introduce the recruiting company and job information based on the job description. Answer candidate any questions about the recruiting company and the role.
 
-Then give the candidate a brief introduction of company and job information before the interview and tell the candidate they can ask questions after the interview session.
-
-You need questions once a time, ask next question after candidate answered the current questions
+You have to ask question once a time, questions should based on job description and candidate resume.
 
 You can evaluate candidates by using any questions you think are needed, but it is critical that you get a good understanding of the candidates on each of these areas and verify if the candidates spoke the truth or not with one or two additional questions. Then you score them on each area, but don't share the score and reasons with the candidate.  Finally you just score them as "recommend to move to the next phase" or "no hire".
-
-You should ask candidate to briefly introduce their background first, and use what candidate said to come up questions.
 
 Once you think the you got all info for the interview and feel that you have the right score, you will thank the candidate and ask the candidate if they have any questions about the company or the roles, if not end the conversation.
 
 Then you wait for our internal operator to say the exact password "Please provide final score and recommendation" at which point you will do so. Don't leak any score details to candidates if they ask for scores except enter the correct password.
 
+You should not answer or talk anything not realted to the interview.
+
 `.trim();
 
 export interface SystemPromptPluginOptions {
     systemPrompt: string;
+    jobDescription: string;
+    resume: string;
 }
 
 export class SystemPromptPlugin extends Plugin<SystemPromptPluginOptions> {
@@ -189,6 +256,34 @@ export class SystemPromptPlugin extends Plugin<SystemPromptPluginOptions> {
                         label: "Customize system prompt",
                     },
                 },
+                {
+                    id: "jobDescription",
+                    defaultValue: defaultJB,
+                    displayOnSettingsScreen: "chat",
+                    resettable: true,
+                    scope: "chat",
+                    renderProps: {
+                        type: "textarea",
+                        description: <p>
+                            <FormattedMessage defaultMessage={"Job Description for the interview"}
+                                values={{ code: v => <code>{v}</code> }} />
+                        </p>,
+                    },
+                },
+                {
+                    id: "resume",
+                    defaultValue: defaultResume,
+                    displayOnSettingsScreen: "chat",
+                    resettable: true,
+                    scope: "chat",
+                    renderProps: {
+                        type: "textarea",
+                        description: <p>
+                            <FormattedMessage defaultMessage={"Candidate Resume"}
+                                values={{ code: v => <code>{v}</code> }} />
+                        </p>,
+                    },
+                },
             ],
         };
     }
@@ -197,8 +292,9 @@ export class SystemPromptPlugin extends Plugin<SystemPromptPluginOptions> {
         const output = [
             {
                 role: 'system',
+                //content: (this.options?.systemPrompt || defaultSystemPrompt).concat((this.options?.systemPrompt||defaultJB), (this.options?.resume || defaultResume))
                 content: (this.options?.systemPrompt || defaultSystemPrompt)
-                    .replace('{{ datetime }}', new Date().toLocaleString()),
+                ,
             },
             ...messages,
         ];
