@@ -1,0 +1,158 @@
+You act as an experienced Interviewer, a helpful assistant, developed by Lorenzo AI, a company helping businesses find great job candidates.
+You goal is generating 8 different questions, the first three questions are predefined:
+1. Please give me a brief introduction of your background?
+2. Can you tell me the top 3 achievements in your current role?
+3. Tell me what makes you to be interested in our opportunity?
+Follow by 5 personalized questions for this candiate based on the job description
+job description [
+VP of Sales
+About Wonders 
+At Wonders, we build products that delight restaurant managers and offload the 
+operational burden of running a restaurant. By enabling frictionless connection between 
+restaurants and their customers, we enhance the experience for everyone.
+As a company built by technologists and former restaurant operators, Wonders has 
+strong customer empathy. We obsess over placing our customers first and working 
+backwards, and fundamentally believe that when our customers succeed, we succeed.
+Our metrics are strong! Join a rocketship!
+● Wonders has achieved significant growth over the past two years, growing 
+annual recurring revenue by almost 4x to $46 million and quadrupling our 
+customer base of mom and pop restaurants.
+● Wonders has maintained profitability for 5+ years and continues to do so even 
+with strong growth.
+About the Role
+This year, we plan to double our ARR and need the right leader to take us there. We 
+will do this by providing top-of-class service and technology solutions to not only 
+Independent Restaurants, but also Enterprise chains, and through Strategic 
+Partnerships. Join us and build the revenue engine that you know you can.
+The VP of Sales will be accountable for doubling our client base in 2023 and 
+building out our Core Team, Enterprise Team, and Business 
+Development/Partnerships Team..
+You will use your team building and leadership skills to help Wonders sell our flagship 
+product, the Voice Ordering Platform, as well as a suite of restaurant technology 
+products such as POS, Delivery and Online by Q4 2023.
+Responsibilities:
+You are intuitive, entrepreneurial, aggressive, curious, and laser-focused on results. As 
+the leader of the Sales Team, you will be accountable for:
+● Achieving company growth targets through designing and building a revenue 
+engine for independent restaurant clients and mid-market enterprise chains
+● Collaborating cross-functionally to communicate market needs and sentiment to 
+our teams for future planning
+● Working closely with C-Level executives on Go-To-Market strategies
+● Managing your Directors to achieve and surpass monthly, quarterly, and annual 
+sales goals
+● Communicating strategy, deal status, and financial forecasts clearly and 
+accurately
+● Own the Sales P&L
+● Hiring and retaining talent
+● Maintaining our phenomenal culture focused on customer, partners, and 
+employee success
+Minimum Requirements:
+● You have 10+ years of Sales Management and 5+ years in a VP-level role at a 
+technology services company. (Restaurant Technology company a plus.)
+● A validated sales track record in quarterly and annual sales goal achievement
+● A framework for building and running successful sales teams
+● You have a natural intellectual curiosity to internalize our value proposition and 
+have a knack for identifying the fastest path to sale 
+● You are an intelligent, aggressive, results-oriented leader who is energized by 
+building, growing, and leveling up your team
+● You are not afraid to take risks and fail, but learn from your mistakes
+● You bring passion, creativity, and energy to building our revenue engine in a way 
+that maps to our team culture.
+Skills:
+● Salesforce - Wonders lives and dies by Salesforce, from Marketing to Sales to 
+Post-Sales Account Management
+● Asana - We run every meeting efficiently and clearly, with clear due dates and 
+documented expectations
+● Confluence - Wonders has a heavy writing culture, we find that it’s the best way 
+to solidify our thoughts and document decisions to provide transparency across 
+the organization
+● Bi-lingual. Ability to speak, read and write Mandarin Chinese natively, as well as 
+ability to speak, read and write English proficiently.
+The compensation range for this role will be $xxx,xxx - $xxx,xxx in on-target earnings as 
+you grow the team. Salary is dependent on experience and location. Competitive Bonus 
+and Equity brings the total compensation package.] 
+
+Candidate Resume:
+ [
+    . 
+    JEAN KANY 
+    jeankany@gmail.com Cell: +1 929 888 0093 NY/NJ, United States 
+    
+    SUMMARY 
+    SKILLS 
+    EXPERIENCE 
+    Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. Customer-oriented, strategic-thinking sales management professional successful in cultivating partnerships, retaining top accounts, and growing profit channels. Multi-tasking and self-motivated leader with expertise in expanding network connections and persuasively introducing products. Well-versed in implementing pricing models, managing vendor relations and expanding territory. 
+    
+    ●  Customer presentations 
+    ●  Business support software proficiency 
+    ●  Market and competitive analysis 
+    ●  Budgeting and P&L 
+    ●  Sales tracking 
+    ●  Profit and revenue-generating strategies 
+    ●  Market intelligence 
+    ● General sales techniques● Excellent communication skills● Critical Thinking● Problem Solving● Market research, forecasting and analysis ● Persuasive negotiations 
+    
+    . 
+    VP HEAD OF GLOBAL SALES & ENTERPRISE RETAIL | 04/2019 to Current CITCON - New-York, United States 
+    ●  Provided professional services and support in a dynamic work environment. 
+    ●  Managed time efficiently in order to complete all tasks within deadlines. 
+    ●  Scheduled meetings with employees to address concerns and grievances. 
+    ●  Managed compensation, insurance, and vacation days within employee benefits programs. 
+    ●  Assisted in employee recruitment, hiring, and interview processes. 
+    VP HEAD OF MERCHANT OPERATIONS EXCELLENCE | 08/2020 to 01/2021 CITCON - New-York, United States 
+    ●  Participated in team projects, demonstrating an ability to work collaboratively and effectively. 
+    ●  Proven ability to learn quickly and adapt to new situations. 
+    ●  Used excellent verbal skills to engage customers in conversation and effectively determine 
+    needs and requirements. 
+    ●  Provided leadership, insight and mentoring to newly hired employees to supply knowledge of 
+    various company programs.VP, ENTERPRISE & RETAIL GENERAL MANAGER | 10/2018 to 08/2019 
+    CITCON - New-York, United States 
+    ●  Aligned organizational objectives with the company mission to increase business growth and integrate work strategies. 
+    ●  Identified problems and implemented solutions to better streamline operations. 
+    ●  Increased company growth through collaboration with sales and marketing departments. 
+    ●  Partnered with global business heads to lead deployment training. 
+    VP SALES & ACCOUNT MANAGEMENT NORTH-AMERICA | 06/2018 to 04/2019 CITCON - New-York, United States 
+    ●  Developed short and long-term sales strategies to gain market share, uncover new sales opportunities and increase revenue. 
+    ●  Increased revenue by implementing effective sales strategies in the sales cycle process from prospecting leads through close. 
+    ●  Led learning and development initiatives to educate sales personnel on new products and services. 
+    . 
+    
+    OTHER PROFESSIONAL OCCUPATIONS 
+    ● Analyzed competitive environment and customer procurement trends to support growth strategies. 
+    GENERAL MANAGER US EAST & CANADA | 06/2017 to 04/2019 CITCON - New-York, United States 
+    ●  Organized and detail-oriented with a strong work ethic. 
+    ●  Used strong analytical and problem-solving skills to develop effective solutions for challenging 
+    situations. 
+    ●  Directed or coordinated financial or budget activities to fund operations and maximize 
+    investments. 
+    ●  Mitigated business risks by working closely with staff members and assessing performance. 
+    DIRECTOR PRODUCT & MARKETING NORTH-AMERICA | 04/2016 to 07/2017 LION TRAVEL SERVICE CO., LTD - Taipei, Taiwan 
+    ●  Trained staff in the operation and upkeep of equipment. 
+    ●  Evaluated projects for required production resources 
+    ●  Evaluated marketing personnel and offered constructive feedback on ways to improve. 
+    ●  Recommended policy changes to improve marketing tactics and strategies. 
+    MEMBER AND SPEAKER | 01/2018 to Current Merchant Advisory Group - Minneapolis, Minnesota 
+    ●  Developed marketing campaigns for environmental technologies or services. 
+    ●  Posted and updated content on the company's website and social media outlets. 
+    ●  Implemented stories and anecdotes into speeches to make information more entertaining. 
+    ●  Drafted speeches to persuade or entertain the audience. 
+    MEMBER | 11/2017 to CurrentFrench Founders - New-York, United States 
+    ●  Worked flexible hours across the night, weekend, and holiday shifts. 
+    ●  Devised organizational vision, mission and foundational structure to facilitate early growth. 
+    ●  Excellent communication skills, both verbal and written. 
+    ●  Delivered speeches and attended industry conferences to promote company image and 
+    engage with buyers. 
+    ESSCA - Grande École In Angers, France M.D.Major: Mass Retail Marketing, 2006 
+    National Sun Yat-Sen University - Public University In Kaohsiung, Taiwan M.D.Exchange Program Management, 2005 
+    University of California, Berkely Bitcoin and Cryptocurrencies, 2021 
+    The University of Hong Kong Introduction to FinTech, 2019 
+    Harvard UniversityPolitical and Intellectual Foundations, 2016 
+    Lion Travel Academy - Taiwan Lion Travel Talent Manager, 2011 
+    Sports 
+    Soccer, Hockey (drafted to Senior on my firstJunior year) and Xtrem Sports (was sponsored in Taiwan) 
+    Reserve Officer, French Navy 
+    Included seminar at West Point 
+    Multilingual 
+    French (Native), English (fluent), Mandarin (fluent), Spanish (conversation)       
+].
+
